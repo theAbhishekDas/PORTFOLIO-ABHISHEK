@@ -65,6 +65,6 @@
   
 - **Problem-solving Prowess**: Witness firsthand the ability to unravel complex datasets, deploy machine learning algorithms, and develop seamless web applications, demonstrating expertise in tackling diverse challenges.
 
-[![](https://raw.githubusercontent.com/theAbhishekDas/PORTFOLIO-ABHISHEK/main/3.png)](https://portfolio-abhishek-das.netlify.app/)
+[![](https://raw.githubusercontent.com/theAbhishekDas/PORTFOLIO-ABHISHEK/main/7.png)](https://portfolio-abhishek-das.netlify.app/)
 
     
