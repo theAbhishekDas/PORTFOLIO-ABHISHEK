@@ -1,32 +1,62 @@
 [![](https://raw.githubusercontent.com/theAbhishekDas/PORTFOLIO-ABHISHEK/main/Untitled-1.png)](https://www.adamalston.com/)
 
 <h1 align="center"> Welcome To My Portfolio </h1>
-
-<div>
-  <h2 align="left"> Home Section </h1>
-    <img width="400" height="295" align='left' src="https://github.com/theAbhishekDas/PORTFOLIO-ABHISHEK/blob/main/1.png?raw=true" >
-As visitors land on the homepage, they're met with a captivating design that beckons them to delve deeper into what lies beyond. A sleek interface welcomes them, promising an experience that's both intuitive and engaging. Front and center, a prominent "Hire Me" button stands out, serving as a beacon for those seeking to collaborate or explore potential opportunities. Its bold presence signals readiness and availability, inviting visitors to take the next step towards forging a professional connection.
-
-Furthermore, an option to access my online CV sits within easy reach, offering a comprehensive glimpse into my professional journey. This feature provides a detailed overview of my skills, experiences, and accomplishments, empowering visitors to gain deeper insights into my expertise and suitability for various roles or projects.
+<div align="justify">
+  <h1 align="right"> Home Section </h1>
+    <img width="550" height="400" align='left' src="https://github.com/theAbhishekDas/PORTFOLIO-ABHISHEK/blob/main/2.png?raw=true" >
+  
+- **Captivating Design**: The homepage welcomes visitors with an alluring design, enticing them to explore further into what awaits.
     <br />
-    <strong>Tech Stack: </strong> ReactJS, Javascript, Typescript, NodeJS, ExpressJS, MySQL, AWS 
-    <br /> 
-    <br /> 
-  </div>
-
-  <div>
-    <hr/>
- <h1 align="center"> About Me Section </h1>
-    <hr/>
+    <br />
+  
+- **Intuitive Interface**: A sleek and user-friendly interface ensures a seamless browsing experience, promising both ease and engagement.
+    <br />
+    <br />
+  
+- **Prominent "Hire Me" Button**: Front and center, a bold "Hire Me" button beckons, signaling readiness for collaboration and inviting visitors to initiate professional connections.
+<br />
+<br />
+<br />
+ <h1 align="left"> About Me Section </h1>
     <img width="400" height="395" align='right' src="https://github.com/theAbhishekDas/PORTFOLIO-ABHISHEK/blob/main/Untitled-2.png?raw=true" >
-In the "About Me" section, I offer visitors a window into both my personal and professional journey, weaving together the threads of experience and passion that define me. Here, they can uncover a wealth of information about my qualifications, skills, and language proficiencies, painting a vivid picture of my capabilities and expertise.
+    
+- **Educational Foundation** : I hold relevant degrees and certifications, providing a strong educational background for my professional endeavors.
 
-From a professional standpoint, I detail my educational background, highlighting relevant degrees, certifications, and training that have equipped me with the necessary knowledge and skills for success in my field. Additionally, I delve into my professional experiences, showcasing key achievements, projects, and roles that have shaped my career trajectory and honed my abilities.
-    <br />
-    <strong>Tech Stack: </strong> ReactJS, Javascript, Typescript, NodeJS, ExpressJS, MySQL, AWS 
-    <br /> 
-    <br /> 
-  </div>
+- **Skillset Showcase**: Through detailing my skills and language proficiencies, visitors gain insight into my diverse capabilities and expertise.
 
+- **Professional Milestones**: I highlight significant achievements and projects, offering a glimpse into the impactful roles I've undertaken throughout my career.
+
+- **Career Trajectory**: My professional journey is mapped out, illustrating how each role and experience has contributed to my growth and development.
+
+- **Passion and Dedication**: Visitors uncover not just qualifications, but a genuine passion for my field, evident in both my personal and professional pursuits. 
   
 [![](https://raw.githubusercontent.com/theAbhishekDas/PORTFOLIO-ABHISHEK/main/Untitled-4.png)](https://www.adamalston.com/)
+ <h1 align="left"> Services Section </h1>
+    <img width="500" height="495" align='right' src="https://github.com/theAbhishekDas/PORTFOLIO-ABHISHEK/blob/main/—Pngtree—black frame mobile phone left_5729539.png?raw=true" >
+    
+- **Data Analysis**: Uncover actionable insights from raw data using advanced statistical methods and analytics techniques to reveal hidden patterns and trends.
+
+- **Data Science**: Harness the power of data to drive informed decision-making through predictive modeling, machine learning algorithms, and deep learning frameworks.
+
+- **MERN Stack Development**: Build robust and scalable web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack, ensuring seamless user experiences and efficient backend architecture.
+
+- **Specialized Services**: Tailored solutions across diverse domains, leveraging expertise in areas such as natural language processing, computer vision, and optimization algorithms.
+
+- **Comprehensive Expertise**: A one-stop destination for a range of services, from initial consultation to implementation and support, ensuring holistic solutions for varied client needs.
+   <br />
+   <br />
+   <br />
+ <h1 align="right"> Latest Projects Section </h1>
+    <img width="500" height="395" align='left' src="https://github.com/theAbhishekDas/PORTFOLIO-ABHISHEK/blob/main/4265000_91375.png?raw=true" >
+
+- **Diverse Range**: Explore recent endeavors in data analysis, data science, and MERN stack development, showcasing versatility and proficiency across multiple domains.
+
+- **Succinct Descriptions**: Each project is presented with clear objectives, methodologies, and outcomes, offering visitors a comprehensive understanding of the work undertaken.
+  
+- **Problem-solving Prowess**: Witness firsthand the ability to unravel complex datasets, deploy machine learning algorithms, and develop seamless web applications, demonstrating expertise in tackling diverse challenges.
+
+- **Confidence Boost**: Through curated projects, visitors gain trust in capabilities, fostering engagement and potential collaboration opportunities.
+
+- **Tangible Demonstrations**: These projects serve as concrete examples of expertise, solidifying credibility and establishing a strong rapport with prospective collaborators.
+
+    
