@@ -1,6 +1,6 @@
-[![](https://raw.githubusercontent.com/theAbhishekDas/PORTFOLIO-ABHISHEK/main/Untitled-1.png)](https://portfolio-abhishek-das.netlify.app/)
+[![](https://github.com/theAbhishekDas/Heart-Disease-Diagnostic-Analysis/blob/main/1.png)](https://portfolio-abhishek-das.netlify.app/)
 
-<h1 align="center"> Welcome To My Portfolio </h1>
+<h1 align="center"> Heart Disease Diagnostic Analysis </h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/abhishekdas09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
 <a href="https://twitter.com/kn1ne09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
@@ -9,24 +9,19 @@
 <hr/>
 <div align="justify">
   <h1 align="right"> Home Section </h1>
+    <img width="450" height="290" align='left' src="https://github.com/theAbhishekDas/Heart-Disease-Diagnostic-Analysis/blob/main/Screenshot%202024-03-24%20185911.png" >
+Heart Disease Diagnostic Analysis is a crucial aspect of healthcare analytics aimed at identifying patterns and factors associated with heart diseases. Power BI, a powerful data visualization tool, can be effectively utilized to design insightful dashboards for this purpose. These dashboards provide a comprehensive overview of patient data, risk factors, and diagnostic results, enabling healthcare professionals to make informed decisions and tailor treatment plans accordingly.
+<br />
+   <br />
   <br />
-    <img width="550" height="400" align='left' src="https://github.com/theAbhishekDas/PORTFOLIO-ABHISHEK/blob/main/2.png?raw=true" >
+  <br />
+   <br />
+  <br />
   
-- **Captivating Design**: The homepage welcomes visitors with an alluring design, enticing them to explore further into what awaits.
-    <br />
-    <br />
+  [![](https://github.com/theAbhishekDas/Heart-Disease-Diagnostic-Analysis/blob/main/2.png)
   
-- **Intuitive Interface**: A sleek and user-friendly interface ensures a seamless browsing experience, promising both ease and engagement.
-    <br />
-    <br />
-  
-- **Prominent "Hire Me" Button**: Front and center, a bold "Hire Me" button beckons, signaling readiness for collaboration and inviting visitors to initiate professional connections.
-<br />
-<br />
-<br />
- <h1 align="left"> About Me Section </h1>
- <br />
-    <img width="400" height="395" align='right' src="https://github.com/theAbhishekDas/PORTFOLIO-ABHISHEK/blob/main/Untitled-2.png?raw=true" >
+ <h1 align="left"> Steps for Dashboard </h1>
+<img width="400" height="395" align='right' src="https://github.com/theAbhishekDas/Heart-Disease-Diagnostic-Analysis/blob/main/pngwing.com.png" >
     
 - **Educational Foundation** : I hold relevant degrees and certifications, providing a strong educational background for my professional endeavors.
 
