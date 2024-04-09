@@ -1,7 +1,7 @@
 import DevImg from "./DevImg"
 import Image from "next/image"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
-import { User2, MailIcon, HomeIcon, PhoneCall, GraduationCap, Calendar, Briefcase } from 'lucide-react'
+import { User2, MailIcon, HomeIcon, PhoneCall, GraduationCap, Calendar, Briefcase, Home, Languages, Code, Database, Cloud, LineChart, Award } from 'lucide-react'
 
 const infoData = [
   {
@@ -36,6 +36,46 @@ const infoData = [
   },
   
 ];
+
+const LangSkill = [
+  {
+    icon: <Languages  size={20} />,
+    text: 'Advanced : English , Hindi',
+    
+  },
+  {
+    icon: <Home size={20} />,
+    text: 'Native : Odia',
+    
+  }
+]
+
+const Skill = [
+  {
+    icon: <Code  size={20} />,
+    text: 'Python (Pandas, NumPy, SciPy, Matplotlib)',
+    
+  },
+  {
+    icon: <Database size={20} />,
+    text: 'MS SQL Server',
+    
+  },
+  {
+    icon: <Cloud size={20} />,
+    text: 'AWS',
+    
+  },
+  {
+    icon: <LineChart size={20} />,
+    text: 'PowerBI, Tableau, MS Excel (Pivot Table, VLOOKUP, VBA, Macro)',
+    
+  },
+  {
+    icon: <Award size={20} />,
+    text: 'Google Data Analytics Professional Certificate, IBM Data Analyst Professional Certificate',
+  },
+]
 
 const  qualificationData = [
   {
@@ -102,13 +142,16 @@ const skillData = [
         imgPath: '/about/sql.svg'
       },
       {
-        imgPath: '/about/excel.svg'
+        imgPath: '/about/aws.svg'
       },
       {
         imgPath: '/about/powerbi.svg'
       },
       {
-        imgPath: '/about/figma.svg'
+        imgPath: '/about/tableau.svg'
+      },
+      {
+        imgPath: '/about/excel.svg'
       },
     ],
   },
@@ -149,8 +192,14 @@ const About = () => {
                 <div className="flex flex-col gap-y-2">
                   <div className="text-primary">Language Skill</div>
                   <div className="border-b border-border"></div>
-                  <div>● Advance : English , Hindi</div>
-                  <div>● Native : Odia</div>
+                  {LangSkill.map((item, index) => {
+                    return (
+                      <div className="flex items-center gap-x-4 mx-auto xl:mx-0" key={index}>
+                      <div className="text-primary">{item.icon}</div>
+                      <div>{item.text}</div>
+                      </div>
+                    )
+                  })}
                 </div>
               </div>
             </TabsContent>
@@ -224,18 +273,17 @@ const About = () => {
                     Skills
                   </h4>
                   <div className="border-b border-border mb-4"></div>
-                  <div>
-                    {getData(skillData,'Skills').data.map(
-                      (item, index) => {
-                        const { name } = item;
-                        return (
-                          <div className="w-2/4 text-center xl:text-left mx-auto xl:mx-0" key={index}>
-                            <div className="font-medium">{name}</div>
-                          </div>
-                        )
-                      }
-                    )}
-                  </div>
+                  <div className="flex flex-col gap-y-2">
+                    
+                  {Skill.map((item, index) => {
+                    return (
+                      <div className="flex items-center gap-x-4 mx-auto xl:mx-0" key={index}>
+                      <div className="text-primary">{item.icon}</div>
+                      <div>{item.text}</div>
+                      </div>
+                    )
+                  })}
+                </div>
                 </div>
                 <div>
                   <h4 className="text-xl font-semibold mb-2 xl:text-left">
