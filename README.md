@@ -3,6 +3,7 @@
 <h1 align="center"> Welcome To My Portfolio </h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/abhishekdas09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://portfolio-abhishek-das.netlify.app/" target="blank"><img align="center" src="https://github.com/theAbhishekDas/Heart-Disease-Diagnostic-Analysis/blob/main/favicon.ico" alt="supunnanayakkara" height="35" width="35" /></a>
 <a href="https://twitter.com/kn1ne09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_the_happy_das_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
 </p>
