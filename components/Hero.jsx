@@ -24,7 +24,7 @@ const Hero = () => {
             <h1 className='h1'>Namaste, I am Abhishek Das</h1>
             <p className="subtitle max-w-[490px] mx-auto xl:mx-0">Experienced data analyst proficient in extracting insights from complex datasets, driving data-driven decisions with advanced analytical skills and strategic thinking.</p>
             <div className="flex flex-col gap-y-3 md:flex-row gap-x-3 mx-auto xl:mx-0 mb-12">
-                <Link href='https://drive.usercontent.google.com/download?id=1VJcBk1irbNux5HtQ6Tgtu-iG1upX6jIx&export=download&authuser=0&confirm=t&uuid=4b86dd54-c5b1-4ec8-8d7e-dd3075498667&at=APZUnTU_UMmoBhb97j4I6T0Pse_v:1713954571677'>
+                <Link href='https://drive.usercontent.google.com/download?id=1iqA6AFZa8UMxcfEQkyGTaMYM-2mA6N7m&export=download&authuser=0&confirm=t&uuid=c3b4bdef-53c8-47de-8382-f2065a998cea&at=AN_67v3dNIp8oxrMtiz63ghI9dBL:1727790688315'>
                 <Button className="gap-x-2 shadow-xl">Hire Me  <Download size={18} />
                 </Button>
                 </Link>
