@@ -97,19 +97,24 @@ const  qualificationData = [
     title: 'experience',
     data: [
       {
+        company: 'Sukoon Unlimited',
+        role: 'Data Analyst Internship',
+        years: 'Feb 2025 - PRESENT'
+      },
+      {
         company: 'Unified Mentor',
         role: 'Data Scientist Internship',
-        years: 'Feb 2024 - Present'
+        years: 'Jan 2025 - Feb 2025'
       },
       {
         company: 'Cognifyz Technologies',
         role: 'PowerBI Intern',
-        years: 'Nov 2023 - Dec 2023'
+        years: 'Aug 2024 - Dec 2024'
       },
       {
         company: 'CodSoft',
         role: 'Data Scientist Internship',
-        years: 'Sep 2023 - Oct 2023'
+        years: 'Jan 2024 - Aug 2024'
       },
     ],
   },
